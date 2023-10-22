@@ -12,7 +12,7 @@
 #
 # Whenever a == 1 the function Frey_curve_of_divisibility_sequence_1
 # is used, which precomputes the conductor exponent at 2 using the
-# results from Table 5.1. Furthermore its result is a conditional
+# results from Table 1. Furthermore its result is a conditional
 # value containing the curve with the lowest possible conductor
 # exponent at 2 for each case.
 
